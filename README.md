@@ -53,7 +53,7 @@ Codveda_Internship/
 
 1. **Clone the repository**:
    ```bash
-   git clone [YOUR_GITHUB_REPOSITORY_URL]
+   git clone https://github.com/Eslammohammedd/Codveda-Technologies-Data-Science-Intern.git
    cd Codveda-Data-Science-Intern
    ```
 
@@ -115,6 +115,8 @@ Predicted Species: versicolor
 
 ## 📤 Submission & Social Pointers
 
-- **GitHub Repository**: `[Link to this repository]`
-- **Video Walkthrough**: `[Link to your LinkedIn submission video]`
-- **LinkedIn Tags**: `@Codveda` `#CodvedaJourney` `#CodvedaExperience` `#FutureWithCodveda` `#DataScience`
+- **GitHub Repository**: https://github.com/Eslammohammedd/Codveda-Technologies-Data-Science-Intern
+
+## 📄 License
+
+MIT — see [LICENSE](LICENSE).

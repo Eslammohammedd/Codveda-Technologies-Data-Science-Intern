@@ -1,4 +1,6 @@
 # 📊 Codveda Data Science Internship Portfolio
+[![CI](https://github.com/Eslammohammedd/Codveda-Technologies-Data-Science-Intern/actions/workflows/ci.yml/badge.svg)](https://github.com/Eslammohammedd/Codveda-Technologies-Data-Science-Intern/actions/workflows/ci.yml)
+
 > **Complete End-to-End Data Science Pipeline**
 
 This repository contains all technical deliverables for the **Codveda Technology Data Science Internship**. The portfolio is structured into three levels of increasing complexity, covering the entire machine learning lifecycle—from web scraping and data cleaning to regression, classification, clustering, time-series forecasting, NLP, and neural networks.
